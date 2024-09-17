@@ -122,7 +122,7 @@ erDiagram
         INTEGER player_id FK
         TEXT player_hand
         DATE date
-        TEXT winner
+        BOOL won_hand
     }
 ```
 
