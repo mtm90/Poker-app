@@ -180,7 +180,7 @@ At the end of the hand, the winner is determined based on the player's and compu
 
 # How to Run
 
-Ensure you have SQLite and Newtonsoft.Json installed.
+Ensure you have SQLite, Newtonsoft.Json and SpectreConsole packages installed.
 Build and run the C# project in Visual Studio or using dotnet.
 Follow the prompts in the console to start a game, load a previous game, or view hand history.
 
